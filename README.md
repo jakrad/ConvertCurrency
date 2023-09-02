@@ -1,6 +1,6 @@
-# ConvertCurrency
+# Currency Converter App
 
-The Currency Converter App is a simple tool that allows users to convert currencies based on the latest exchange rates. Whether you're planning a trip abroad or just curious about currency exchange rates, this app has you covered.
+The Currency Converter App is a straightforward tool designed to help users convert currencies easily. Whether you're planning a trip abroad or need to calculate foreign exchange rates, this app has got you covered.
 
 ## Features
 
@@ -36,5 +36,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 
 - Exchange rate data provided by [Narodowy Bank Polski (NBP)](https://www.nbp.pl/).
+
+Please note that this app supports conversions only from currency to PLN and from PLN to currency.
 
 Happy currency converting!
