@@ -1,15 +1,15 @@
-# Currency Converter App
+# 💱 Currency Converter App
 
 The Currency Converter App is a straightforward tool designed to help users convert currencies easily. Whether you're planning a trip abroad or need to calculate foreign exchange rates, this app has got you covered.
 
 ## Features
 
-- Convert between different currencies with ease.
-- Access up-to-date exchange rates sourced from a reliable API.
-- Choose the source currency (e.g., PLN) and target currency (e.g., USD) for your conversions.
-- Supports both "From Currency to PLN" and "From PLN to Currency" conversions.
-- Real-time conversion results displayed instantly.
-- User-friendly interface for easy navigation and input.
+- 💹 Convert between different currencies with ease.
+- 🌍 Access up-to-date exchange rates sourced from a reliable API.
+- 💼 Choose the source currency (e.g., PLN) and target currency (e.g., USD) for your conversions.
+- 🔄 Supports both "From Currency to PLN" and "From PLN to Currency" conversions.
+- 📈 Real-time conversion results displayed instantly.
+- 🖥️ User-friendly interface for easy navigation and input.
 
 ## Getting Started
 
@@ -39,4 +39,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Please note that this app supports conversions only from currency to PLN and from PLN to currency.
 
-Happy currency converting!
+Happy currency converting! 💰🌐
